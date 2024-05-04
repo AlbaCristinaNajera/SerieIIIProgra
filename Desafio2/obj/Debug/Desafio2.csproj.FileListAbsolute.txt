@@ -1,0 +1,20 @@
+C:\Users\50246\Desktop\WindowsFORM2\Desafio2\Desafio2\bin\Debug\Desafio2.exe.config
+C:\Users\50246\Desktop\WindowsFORM2\Desafio2\Desafio2\bin\Debug\Desafio2.exe
+C:\Users\50246\Desktop\WindowsFORM2\Desafio2\Desafio2\bin\Debug\Desafio2.pdb
+C:\Users\50246\Desktop\WindowsFORM2\Desafio2\Desafio2\obj\Debug\Desafio2.csproj.AssemblyReference.cache
+C:\Users\50246\Desktop\WindowsFORM2\Desafio2\Desafio2\obj\Debug\Desafio2.Form1.resources
+C:\Users\50246\Desktop\WindowsFORM2\Desafio2\Desafio2\obj\Debug\Desafio2.Properties.Resources.resources
+C:\Users\50246\Desktop\WindowsFORM2\Desafio2\Desafio2\obj\Debug\Desafio2.csproj.GenerateResource.cache
+C:\Users\50246\Desktop\WindowsFORM2\Desafio2\Desafio2\obj\Debug\Desafio2.csproj.CoreCompileInputs.cache
+C:\Users\50246\Desktop\WindowsFORM2\Desafio2\Desafio2\obj\Debug\Desafio2.exe
+C:\Users\50246\Desktop\WindowsFORM2\Desafio2\Desafio2\obj\Debug\Desafio2.pdb
+C:\Users\50246\Desktop\Calculadora de cuotas\Desafio2\bin\Debug\Desafio2.exe.config
+C:\Users\50246\Desktop\Calculadora de cuotas\Desafio2\bin\Debug\Desafio2.exe
+C:\Users\50246\Desktop\Calculadora de cuotas\Desafio2\bin\Debug\Desafio2.pdb
+C:\Users\50246\Desktop\Calculadora de cuotas\Desafio2\obj\Debug\Desafio2.csproj.AssemblyReference.cache
+C:\Users\50246\Desktop\Calculadora de cuotas\Desafio2\obj\Debug\Desafio2.Form1.resources
+C:\Users\50246\Desktop\Calculadora de cuotas\Desafio2\obj\Debug\Desafio2.Properties.Resources.resources
+C:\Users\50246\Desktop\Calculadora de cuotas\Desafio2\obj\Debug\Desafio2.csproj.GenerateResource.cache
+C:\Users\50246\Desktop\Calculadora de cuotas\Desafio2\obj\Debug\Desafio2.csproj.CoreCompileInputs.cache
+C:\Users\50246\Desktop\Calculadora de cuotas\Desafio2\obj\Debug\Desafio2.exe
+C:\Users\50246\Desktop\Calculadora de cuotas\Desafio2\obj\Debug\Desafio2.pdb
